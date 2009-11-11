@@ -135,6 +135,10 @@ class Project extends PageObject
 }
 
 /*------------------------------ START GENERIC CODE -------------------------- */
+/************************************************************************************ /
+/* THIS WILL EVENTUALLY BE MOVED INTO SEPARATE FILES */
+/**************************************************************************************/
+
 
 
 function casttoclass($class, $object)
