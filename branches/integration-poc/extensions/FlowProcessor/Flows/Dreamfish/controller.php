@@ -59,6 +59,7 @@ class ProjectController
           "name" => $_POST["name"],
           "id" => $_POST["id"],
           "members" => $_POST["members"],
+          "description" => $_POST["description"]
       );
       
       if ($_POST["action"] == "Save") {
